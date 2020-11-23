@@ -1,9 +1,8 @@
 ---
 title: "A Snapshot of Montana's Early Childhood Workforce figures"
+author: "Cassie Noble"
 output: word_document
 ---
-
-# author: cnoble
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(fig.height = 4)
