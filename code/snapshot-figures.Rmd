@@ -3,6 +3,8 @@ title: "A Snapshot of Montana's Early Childhood Workforce figures"
 output: word_document
 ---
 
+# author: cnoble
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(fig.height = 4)
 knitr::opts_chunk$set(fig.width = 5)
